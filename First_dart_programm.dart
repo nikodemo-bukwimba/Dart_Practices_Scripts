@@ -10,4 +10,8 @@ void main() {
   print(age);
   print(name);
   print(isStudent);
+
+  //..............Changing variable age into nullable typr...........//
+  int? nullableage = null;
+  print(nullableage);
 }
